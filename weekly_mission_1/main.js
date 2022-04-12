@@ -3,4 +3,4 @@ console.log("1) Hello world!")
 console.log("1) Hello world!")
 console.log("1) Hello world!")
 console.log("1) Hello world!")
-console.log("1) Hello wo
+console.log("1) Hello wolrd!")
